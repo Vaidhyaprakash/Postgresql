@@ -10,6 +10,7 @@ async function main(){
 }
 main();
 
+//..........................Handling Routes.....................
 const init = async () => {
 
     const server = Hapi.server({
